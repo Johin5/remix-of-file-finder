@@ -1,0 +1,7 @@
+{
+  "name": "PocketLedger",
+  "description": "A fast, offline-first personal finance tracker optimized for mobile devices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
