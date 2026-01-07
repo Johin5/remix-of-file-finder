@@ -1,4 +1,3 @@
-
 export type TransactionType = 'income' | 'expense' | 'transfer';
 export type AccountType = 'cash' | 'bank' | 'credit' | 'savings';
 export type BudgetPeriod = 'monthly' | 'yearly';
