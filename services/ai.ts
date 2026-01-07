@@ -1,5 +1,5 @@
 
-import { GoogleGenAI, Type, FunctionDeclaration, SchemaType } from "@google/genai";
+import { GoogleGenAI, Type, FunctionDeclaration } from "@google/genai";
 import { Account, Category, Transaction } from "../types";
 
 // Initialize Gemini API Client
